@@ -26,9 +26,13 @@ This case study focuses on understanding customer churn behavior, uncovering key
 ### **2) Analyzing Job Market Trends** (Case Study)
 This case study explores job market data, identifying trends in skill demand, job postings, and industry-specific requirements.
 
-## 🎥 Preview
+# 🎥 Preview
+![Dashboard Demo](https://i.imgur.com/QQ1ZiBf.mp4)
 
-![Dashboard Demo](https://i.imgur.com/2pjicv0.gif)
+
+
+
+
 
 - **What I Did**:
   - Analyzed job market trends over time (year, quarter, and month) to understand changing skill demand.
