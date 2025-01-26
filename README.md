@@ -22,6 +22,7 @@ This case study focuses on understanding customer churn behavior, uncovering key
   - Built interactive dashboards to present insights, including churn reasons, churn rate by state, and churn rate trends.
 
 - **What I Learned**:
+  - How to perform **data modeling** to establish relationships between datasets and streamline analysis.
   - How to use DAX for advanced calculations, such as calculating churn rates and comparing averages.
   - The importance of creating clean, actionable visualizations for stakeholders.
   - A systematic approach to analyzing customer behavior and presenting findings effectively.
@@ -41,7 +42,6 @@ This case study explores job market data, identifying trends in skill demand, jo
   - Designed a matrix to map job roles with key skillsets, providing industry-specific insights.
 
 - **What I Learned**:
-  - How to perform **data modeling** to establish relationships between datasets and streamline analysis.
   - The importance of **exploratory data analysis (EDA)** in revealing hidden trends and insights.
   - Building dynamic, interactive dashboards with seamless navigation for users.
   - Using advanced Power BI tools to present insights effectively and make data actionable.
