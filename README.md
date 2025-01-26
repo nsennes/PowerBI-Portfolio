@@ -11,6 +11,11 @@ The repository is structured as follows:
 ### **1) Analyzing Customer Churn** (Case Study)
 This case study focuses on understanding customer churn behavior, uncovering key reasons for churn, and identifying actionable insights to reduce churn rates.
 
+### 🎥 Preview
+
+<img src="https://raw.githubusercontent.com/nsennes/gifs/main/Customer%20Churn%20Dashboard.gif" alt="Customer Churn Dashboard" width="600">
+
+
 - **What I Did**:
   - Conducted exploratory data analysis (EDA) to examine customer demographics, churn rates, and distribution across categories.
   - Investigated churn patterns based on factors like contract type, account length, payment methods, and demographics.
@@ -26,13 +31,9 @@ This case study focuses on understanding customer churn behavior, uncovering key
 ### **2) Analyzing Job Market Trends** (Case Study)
 This case study explores job market data, identifying trends in skill demand, job postings, and industry-specific requirements.
 
-# 🎥 Preview
-![Dashboard Demo](https://i.imgur.com/QQ1ZiBf.mp4)
+### 🎥 Preview
 
-
-
-
-
+<img src="https://raw.githubusercontent.com/nsennes/gifs/main/PowerBI%20Job%20Market%20Dashboard.gif" alt="Power BI Job Market Dashboard" width="600">
 
 - **What I Did**:
   - Analyzed job market trends over time (year, quarter, and month) to understand changing skill demand.
