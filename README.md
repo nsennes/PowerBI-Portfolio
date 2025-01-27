@@ -55,8 +55,7 @@ This case study explores job market data, identifying trends in skill demand, jo
 This case study focuses on analyzing customer shopping behavior to uncover actionable insights into demographics, product preferences, and purchasing patterns.
 
 ### 🎥 Preview
-
-
+![Alt Text](https://drive.google.com/uc?id=1vjNZJlMZ0qltR94moDJT3ROyUQP9MNnK)
 
 - **What I Did**:
   - Explored customer shopping data to analyze demographics, product preferences, and purchase patterns.
