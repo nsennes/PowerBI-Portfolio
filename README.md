@@ -47,6 +47,31 @@ This case study explores job market data, identifying trends in skill demand, jo
   - Using advanced Power BI tools to present insights effectively and make data actionable.
   
 ---
+### **3) Customer Purchase Trend Analysis** (Project)
+This case study focuses on analyzing customer shopping behavior to uncover actionable insights into demographics, product preferences, and purchasing patterns.
+
+### 🎥 Preview
+
+
+
+- **What I Did**:
+  - Explored customer shopping data to analyze demographics, product preferences, and purchase patterns.
+  - Highlighted key insights, such as:
+     - More male customers compared to female customers.
+     - Most customers fall in the 25–29 age group.
+     - "Every 3 Months" is the most common purchase frequency.
+  - Designed a dynamic overview page to present these insights clearly and engagingly.
+  - Developed a drill-down exploration page to analyze key factors influencing shopping behavior, such as payment methods, shipping preferences, and subscription status.
+  - Applied DAX (Data Analysis Expressions) to create calculated measures, enhancing the depth and accuracy of the analysis.
+
+- **What I Learned**:
+  - How to effectively approach **exploratory data analysis (EDA)** and storytelling to uncover actionable insights.
+  - The importance of creating **interactive dashboards** to make data accessible and understandable for users.
+  - Learned how data-driven insights can guide **marketing strategies**, such as targeting specific demographics or planning promotional cycles, to improve business outcomes.
+  - Developed skills in analyzing customer behavior to identify opportunities for optimizing **product planning** and enhancing marketing efforts.
+  - Strengthened abilities in **data modeling, visualization**, and **navigational dashboard design** to create seamless user experiences.
+  
+---
 
 ## 📊 Skills Applied
 - Power BI (Data Modeling, Visualization, and DAX)
