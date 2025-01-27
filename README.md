@@ -36,7 +36,7 @@ This case study explores job market data, identifying trends in skill demand, jo
 
 <img src="https://raw.githubusercontent.com/nsennes/gifs/main/PowerBI%20Job%20Market%20Dashboard.gif" alt="Power BI Job Market Dashboard" width="600">
 
-### 🌐 **View the Dashboard**  
+### 🌐 View the Dashboard
 [Click here to view the Job Market Trends Dashboard](https://app.powerbi.com/reportEmbed?reportId=1a27ac7e-3983-4273-8241-ed21d0094b91&autoAuth=true&ctid=79845616-9df0-43e0-8842-e300feb2642a)
 
 
