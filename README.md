@@ -1,6 +1,6 @@
 # 🖥️ PowerBI-Portfolio
 Welcome to my Power BI Projects Portfolio! 🚀
-This is where I dive into data visualization, exploratory data analysis (EDA), data modeling, and storytelling with data—all while learning how to bring numbers to life. Through working on case studies, I’ve had the chance to build interactive dashboards, uncover trends, and practice solving real-world-inspired problems.
+This is where I dive into data visualization, exploratory data analysis (EDA), data modeling, and storytelling with data—all while learning how to bring numbers to life. Through working on case studies and projects, I’ve had the chance to build interactive dashboards, uncover trends, and practice solving real-world-inspired problems.
 
 I see this portfolio as a growing space to experiment, learn, and improve. I’m always excited to take on new challenges and explore new datasets to push my skills even further.✨
 
@@ -60,6 +60,9 @@ This case study focuses on analyzing customer shopping behavior to uncover actio
 
 ### 🎥 Preview
 ![Alt Text](https://drive.google.com/uc?id=1vjNZJlMZ0qltR94moDJT3ROyUQP9MNnK)
+
+### 🌐 View the Dashboard
+[View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGU1NmZjMGEtNGYzNC00NmIyLTljMWUtZjQ3YzZiODllNjg4IiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D)
 
 - **What I Did**:
   - Explored customer shopping data to analyze demographics, product preferences, and purchase patterns.
