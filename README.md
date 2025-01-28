@@ -42,8 +42,6 @@ This case study explores job market data, identifying trends in skill demand, jo
 ### 🌐 View the Dashboard
 [View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjc2NzczNTktOWRmMS00MzI4LTk0MzItODM1OWU2ZGQyNzZiIiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D)
 
-
-
 - **What I Did**:
   - Analyzed job market trends over time (year, quarter, and month) to understand changing skill demand.
   - Examined required experience levels for various job positions and industries.
@@ -59,10 +57,93 @@ This case study explores job market data, identifying trends in skill demand, jo
 This case study focuses on analyzing customer shopping behavior to uncover actionable insights into demographics, product preferences, and purchasing patterns.
 
 ### 🎥 Preview
-![Alt Text](https://drive.google.com/uc?id=1vjNZJlMZ0qltR94moDJT3ROyUQP9MNnK)
+<img src="https://raw.githubusercontent.com/nsennes/gifs/d095a06fd2fe5e02039dd57a9e0a60d0f44b0aab/Customer%20Trend%20Analysis%20Dashboard.gif" alt="Customer Trend Analysis Dashboard" width="600">
 
 ### 🌐 View the Dashboard
 [View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGU1NmZjMGEtNGYzNC00NmIyLTljMWUtZjQ3YzZiODllNjg4IiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D)
+
+### 🛍️ Insights & Strategies
+
+<details>
+  <summary>🔍 Key Insights</summary>
+
+1. **Male-Dominated Customer Base**  
+   - The majority of customers are **male**, with a significant gender gap in purchase behavior.  
+   - **All subscribed customers** are male, showing a stronger preference for subscriptions among them.
+
+2. **High Revenue-Generating Category**  
+   - **Clothing** is the top revenue-generating category.  
+   - **Jewelry, blouses, and pants** are the most frequently purchased items.
+
+3. **Shopping Frequency & Behavior**  
+   - The **most common shopping pattern is every 3 months**, suggesting seasonal or bulk purchases.  
+   - Within this interval, **free shipping** is the preferred shipping method.
+
+4. **Customer Age Distribution**  
+   - The **average customer age is 44**, but **most customers fall between 25-29 years old**.  
+   - Marketing strategies should target this younger demographic while accommodating older customers.
+
+5. **Seasonal Purchase Trends**  
+   - **Fall is the highest revenue-generating season**, indicating a key period for promotions and product launches.  
+
+6. **Preferred Payment Methods**  
+   - **PayPal is the top payment method**, followed by **credit cards and cash**.  
+   - A strong emphasis on seamless digital payment solutions is necessary.
+
+7. **Promo Code Usage**  
+   - A significant number of customers **do not use promo codes or discounts**.  
+   - There is potential to **better promote and integrate discount strategies**.
+
+</details>
+
+<details>
+  <summary>🎯 Strategic Recommendations</summary>
+
+#### 📢 **Marketing & Customer Engagement**
+1. **Target Male Customers More Effectively**  
+    - Personalize campaigns for male shoppers.  
+    - Enhance subscription perks tailored to their shopping behavior.  
+
+2. **Leverage Seasonal Trends for Promotions**  
+    - **Fall sales campaigns** should be a focus.  
+    - Introduce **limited-time bundles** for high-demand seasonal items.  
+
+3. **Enhance Personalized Product Recommendations**  
+    - Promote top-performing items like **jewelry, blouses, and pants**.  
+    - Offer **cross-sell bundles** to increase average order value.
+  
+---    
+
+#### 💳 **Subscription & Loyalty Programs**
+1. **Encourage Subscription Sign-Ups for Female Customers**  
+    - Offer exclusive discounts and early access for female shoppers.  
+
+2. **Bundle Free Shipping with Subscription Perks**  
+    - **Incentivize subscriptions** with shipping benefits.  
+    - Introduce **tiered shipping rewards** based on purchase frequency.
+---
+
+#### 💰 **Payment & Checkout Experience**
+1. **Optimize Digital Payment Options**  
+    - Ensure a **seamless PayPal checkout experience**.  
+    - Consider **"Buy Now, Pay Later"** options for younger shoppers.  
+
+2. **Increase Promo Code Utilization**  
+    - **Highlight discounts at checkout** and via email campaigns.  
+    - Implement **automatic discount applications** for frequent buyers.
+---
+
+#### 🚚 **Logistics & Shipping Optimization**
+1. **Optimize Free Shipping Strategy**  
+    - Introduce a **minimum spend threshold** to unlock free shipping.  
+    - Reduce costs while maintaining **profitability**.  
+
+2. **Leverage Regional Insights for Targeted Strategies**  
+    - **Top spending states** should be prioritized in regional advertising.  
+
+</details>
+
+---
 
 - **What I Did**:
   - Explored customer shopping data to analyze demographics, product preferences, and purchase patterns.
