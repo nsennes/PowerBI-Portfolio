@@ -15,6 +15,9 @@ This case study focuses on understanding customer churn behavior, uncovering key
 
 <img src="https://raw.githubusercontent.com/nsennes/gifs/main/Customer%20Churn%20Dashboard.gif" alt="Customer Churn Dashboard" width="600">
 
+### 🌐 View the Dashboard
+[View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGFjOTZiMzMtNTM5MC00MmM3LTkxNGYtZGNkM2QyNDMzMGU1IiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D)
+
 
 - **What I Did**:
   - Conducted exploratory data analysis (EDA) to examine customer demographics, churn rates, and distribution across categories.
