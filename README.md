@@ -54,7 +54,7 @@ This case study explores job market data, identifying trends in skill demand, jo
   
 ---
 ### **3) Customer Purchase Trend Analysis** (Project)
-This case study focuses on analyzing customer shopping behavior to uncover actionable insights into demographics, product preferences, and purchasing patterns.
+This project focuses on analyzing customer shopping behavior to uncover actionable insights into demographics, product preferences, and purchasing patterns.
 
 ### 🎥 Preview
 <img src="https://raw.githubusercontent.com/nsennes/gifs/d095a06fd2fe5e02039dd57a9e0a60d0f44b0aab/Customer%20Trend%20Analysis%20Dashboard.gif" alt="Customer Trend Analysis Dashboard" width="600">
